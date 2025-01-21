@@ -131,16 +131,19 @@ Re-enable the account and attempt to login with it.
 </p>
 
 
+<h2>Observing Logs</h2>
+
+
+![image](https://github.com/user-attachments/assets/f83d8223-9369-4a16-bf62-992ba744195e)
+
 <p>
-Lorem ipsum dolor sit amet, 
+In the Domain Controller open Event Viewer by searching (eventvwr.msc)
 </p>
 
+![image](https://github.com/user-attachments/assets/a261ae8d-e7c3-4a51-8a6d-c39f6cf75976)
+
+![image](https://github.com/user-attachments/assets/53582768-2718-45d0-a6b0-098564bae4b3)
 
 <p>
-Lorem ipsum dolor sit amet, 
-</p>
-
-
-<p>
-Lorem ipsum dolor sit amet, 
+Windows Logs > Security to observe the logs (you can filter by using the User’s name)
 </p>
