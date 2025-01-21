@@ -26,59 +26,70 @@ This tutorial outlines Configuring Group Policy and Managing Accounts<br />
 
 <h2>Dealing with Account Lockouts</h2>
 
+![image](https://github.com/user-attachments/assets/2862de21-e154-4b52-8bd2-7d19fe5edecc)
 
 <p>
-Lorem ipsum dolor sit amet, 
+Get logged into dc-1
 </p>
 
+![image](https://github.com/user-attachments/assets/b55206c6-d672-4d05-8daf-cd0675a55494)
 
 <p>
-Lorem ipsum dolor sit amet, 
+Open Group Policy Management
 </p>
 
+![image](https://github.com/user-attachments/assets/12315ea0-e7c6-4525-be65-a0b6abcb800e)
 
 <p>
-Lorem ipsum dolor sit amet, 
+Edit Default Domain Policy and link Group Policy to (mydomain.com)
 </p>
 
+![image](https://github.com/user-attachments/assets/976fe198-cbba-4dfa-91da-bdb2c7c1257f)
 
 <p>
-Lorem ipsum dolor sit amet, 
+Select Account Lockout Policy
 </p>
 
+![image](https://github.com/user-attachments/assets/570a300a-6fcc-4e28-9a90-a506a2670353)
 
 <p>
-Lorem ipsum dolor sit amet, 
+Configure Group Policy to Lockout the account after 5 attempts
 </p>
 
+![image](https://github.com/user-attachments/assets/7a8f20c5-10f2-43dd-8b2d-60b6541ebc92)
 
 <p>
-Lorem ipsum dolor sit amet, 
+Log into Client1
 </p>
 
+![image](https://github.com/user-attachments/assets/140d33de-2e38-49d4-8fe7-adbb10225b4f)
 
 <p>
-Lorem ipsum dolor sit amet, 
+Run Command Prompt as Administrator
 </p>
 
+![image](https://github.com/user-attachments/assets/0e2c103f-9519-4472-8269-b59051cf37f9)
 
 <p>
-Lorem ipsum dolor sit amet, 
+Run (gpupdate /force) to update Group Policy and Verify the the Group Policy has been updated
 </p>
 
+![image](https://github.com/user-attachments/assets/acba1c5a-939a-48bd-897a-8b1c97726f6c)
 
 <p>
-Lorem ipsum dolor sit amet, 
+Pick a random user account and attempt to log in with it 6 times with a bad password
 </p>
 
+![image](https://github.com/user-attachments/assets/fbc429ad-0b1e-41e9-81c5-d2c09bc78af6)
 
 <p>
-Lorem ipsum dolor sit amet, 
+Go to the selected account user’s properties and unlock the account
 </p>
 
+![image](https://github.com/user-attachments/assets/2aefc995-c30e-40ab-b8ba-d43ed083b434)
 
 <p>
-Lorem ipsum dolor sit amet, 
+You can also reset the User’s password by right-clicking the users name
 </p>
 
 
