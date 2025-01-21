@@ -22,7 +22,7 @@ This tutorial outlines Configuring Group Policy and Managing Accounts<br />
 - Step 1 Configuring Group Policy and dealing with Account Lockouts
 - Step 2 Enabling and Disabling Accounts
 - Step 3 Observing Logs
-- Step 4
+
 
 <h2>Dealing with Account Lockouts</h2>
 
