@@ -19,7 +19,7 @@ This tutorial outlines Configuring Group Policy and Managing Accounts<br />
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1 Dealing with Account Lockouts
+- Step 1 Configuring Group Policy and dealing with Account Lockouts
 - Step 2 Enabling and Disabling Accounts
 - Step 3 Observing Logs
 - Step 4
@@ -88,28 +88,46 @@ Go to the selected account user’s properties and unlock the account
 
 ![image](https://github.com/user-attachments/assets/2aefc995-c30e-40ab-b8ba-d43ed083b434)
 
+![image](https://github.com/user-attachments/assets/d3883523-264b-471c-8cdc-878440112ff1)
+
 <p>
 You can also reset the User’s password by right-clicking the users name
 </p>
 
+![image](https://github.com/user-attachments/assets/63980287-2bf1-4dda-bd68-c248dfe11dbe)
+
+![image](https://github.com/user-attachments/assets/385fdbfe-41ef-4f27-aec9-057617b193c5)
+
+
 
 <p>
-Lorem ipsum dolor sit amet, 
+Attempt to login with the User Account
 </p>
 
 
+<h2>Enabling and Disabling Accounts</h2>
+
+![image](https://github.com/user-attachments/assets/c8eb855a-5e88-4550-b02a-f903021d63a5)
+
+
 <p>
-Lorem ipsum dolor sit amet, 
+Disable the same account in Active Directory
 </p>
 
+![image](https://github.com/user-attachments/assets/060ed14e-311e-4b3a-b673-2911f1335c52)
+
+![image](https://github.com/user-attachments/assets/08413cbd-5542-4b52-8dfe-b3bb8917cfe9)
 
 <p>
-Lorem ipsum dolor sit amet, 
+Attempt to login with it, observe the error message
 </p>
 
+![image](https://github.com/user-attachments/assets/9a83a615-1c49-4550-a94f-89de5bb93fc2)
+
+![image](https://github.com/user-attachments/assets/03db616f-84ae-43d6-b282-379766eafcc6)
 
 <p>
-Lorem ipsum dolor sit amet, 
+Re-enable the account and attempt to login with it.
 </p>
 
 
